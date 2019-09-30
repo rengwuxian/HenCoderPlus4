@@ -1,1 +1,2 @@
 include ':05-lesson', ':05-app', ':05-base'
+include ':06-lesson', ':06-app', ':06-base'

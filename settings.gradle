@@ -1,2 +1,2 @@
-include ':05-lesson', ':05-app', ':05-base', ':07-retrofit'
+include ':05-lesson', ':05-app', ':05-base', ':07-retrofit', ':08-okhttp'
 include ':06-lesson', ':06-app', ':06-base'

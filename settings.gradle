@@ -2,3 +2,4 @@ include ':05-lesson', ':05-app', ':05-base', ':07-retrofit', ':08-okhttp', ':09-
 include ':06-lesson', ':06-app', ':06-base'
 include ':15-app', ':15-example', ':15-motionlayout', ':14-constraintlayout'
 include ':24-thread'
+include ':25-thread-interaction'

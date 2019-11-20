@@ -112,13 +112,8 @@ public class DragListenerGridView extends ViewGroup {
                 draggedIndex = i;
             }
         }
-        if (targetIndex < draggedIndex) {
-            orderedChildren.remove(draggedIndex);
-            orderedChildren.add(targetIndex, draggedView);
-        } else if (targetIndex > draggedIndex) {
-            orderedChildren.remove(draggedIndex);
-            orderedChildren.add(targetIndex, draggedView);
-        }
+        orderedChildren.remove(draggedIndex);
+        orderedChildren.add(targetIndex, draggedView);
         int childLeft;
         int childTop;
         int childWidth = getWidth() / COLUMNS;

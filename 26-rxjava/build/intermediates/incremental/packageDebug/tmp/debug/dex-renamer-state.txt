@@ -1,0 +1,7 @@
+#Thu Nov 21 21:23:21 CST 2019
+base.0=/Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex

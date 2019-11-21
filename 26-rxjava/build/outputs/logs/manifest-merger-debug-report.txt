@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:2:1-23:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/64645178d665b44f3221cf81b3077843/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/46cf5919bf4c182b634f97ff4267f4e9/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/aa5e31d1113c7640b1d4338f25e7fc37/jetified-rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/7141e24774d39f54f6a87fc365c2fc61/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/9070404b01b301afa41ce9e4448c0084/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/9ae43b311a1aa42a40a01c955b7353de/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/26e56645d750b998197772494b1e4a20/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/e269b829bdd81968c7587c73cd38aa9f/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/963da285d14e050ee7c9f109a0ae4001/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/33d94a924f89227b86f24f39f3c8d81d/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/001465f66b99fd9e3395d6944de34942/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/795a2dc6467f0614bc2c230487f7af02/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/969f56928fce6fdd8f3190d02717442a/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/4c928288da284b6cf2883d9b6b2c210e/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/ee97deadd2aca7943bbb3cfb9c0d9ee6/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/06f365ddbfcee351f6378189492b667e/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/37a7c1044bb20d9fb1c3d45ca32470c0/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/e836976c41f6cdd4cb8bfd747b10b682/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/a2d11fe17532ff1f6df39ff3138634b3/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/664f412613f05133ad942c071cea42ad/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/b34dc9b9c083033142db497275ec8383/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/c577db0ed0458c66d560d15095026303/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:2:1-23:12
+INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml
+		INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml
+		ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml
+		ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:2:1-23:12
+		INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:7:5-21:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/46cf5919bf4c182b634f97ff4267f4e9/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/46cf5919bf4c182b634f97ff4267f4e9/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/969f56928fce6fdd8f3190d02717442a/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/969f56928fce6fdd8f3190d02717442a/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/ee97deadd2aca7943bbb3cfb9c0d9ee6/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/ee97deadd2aca7943bbb3cfb9c0d9ee6/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/969f56928fce6fdd8f3190d02717442a/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:13:9-40
+activity#com.hencoder.a26_rxjava.MainActivity
+ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml
+INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/64645178d665b44f3221cf81b3077843/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/64645178d665b44f3221cf81b3077843/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/46cf5919bf4c182b634f97ff4267f4e9/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/46cf5919bf4c182b634f97ff4267f4e9/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/aa5e31d1113c7640b1d4338f25e7fc37/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/aa5e31d1113c7640b1d4338f25e7fc37/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/7141e24774d39f54f6a87fc365c2fc61/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/7141e24774d39f54f6a87fc365c2fc61/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/9070404b01b301afa41ce9e4448c0084/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/9070404b01b301afa41ce9e4448c0084/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/9ae43b311a1aa42a40a01c955b7353de/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/9ae43b311a1aa42a40a01c955b7353de/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/26e56645d750b998197772494b1e4a20/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/26e56645d750b998197772494b1e4a20/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/e269b829bdd81968c7587c73cd38aa9f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/e269b829bdd81968c7587c73cd38aa9f/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/963da285d14e050ee7c9f109a0ae4001/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/963da285d14e050ee7c9f109a0ae4001/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/33d94a924f89227b86f24f39f3c8d81d/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/33d94a924f89227b86f24f39f3c8d81d/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/001465f66b99fd9e3395d6944de34942/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/001465f66b99fd9e3395d6944de34942/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/795a2dc6467f0614bc2c230487f7af02/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/795a2dc6467f0614bc2c230487f7af02/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/969f56928fce6fdd8f3190d02717442a/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/969f56928fce6fdd8f3190d02717442a/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/4c928288da284b6cf2883d9b6b2c210e/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/4c928288da284b6cf2883d9b6b2c210e/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/ee97deadd2aca7943bbb3cfb9c0d9ee6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/ee97deadd2aca7943bbb3cfb9c0d9ee6/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/06f365ddbfcee351f6378189492b667e/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/06f365ddbfcee351f6378189492b667e/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/37a7c1044bb20d9fb1c3d45ca32470c0/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/37a7c1044bb20d9fb1c3d45ca32470c0/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/e836976c41f6cdd4cb8bfd747b10b682/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/e836976c41f6cdd4cb8bfd747b10b682/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/a2d11fe17532ff1f6df39ff3138634b3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/a2d11fe17532ff1f6df39ff3138634b3/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/664f412613f05133ad942c071cea42ad/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/664f412613f05133ad942c071cea42ad/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/b34dc9b9c083033142db497275ec8383/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/b34dc9b9c083033142db497275ec8383/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/c577db0ed0458c66d560d15095026303/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/c577db0ed0458c66d560d15095026303/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml
+INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml
+		ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml
+		INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml
+		ADDED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml
+		INJECTED from /Users/rengwuxian/projects/HenCoderPlus4/26-rxjava/src/main/AndroidManifest.xml

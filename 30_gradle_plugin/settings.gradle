@@ -1,0 +1,2 @@
+rootProject.name='30_gradle_plugin'
+include ':app'

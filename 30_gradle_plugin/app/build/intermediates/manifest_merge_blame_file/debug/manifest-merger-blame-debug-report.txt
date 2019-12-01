@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.hencoder.a30_gradle_plugin"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/rengwuxian/projects/HenCoderPlus4/30_gradle_plugin/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/Users/rengwuxian/projects/HenCoderPlus4/30_gradle_plugin/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/rengwuxian/projects/HenCoderPlus4/30_gradle_plugin/app/src/main/AndroidManifest.xml:5:5-19:19
+12        android:allowBackup="true"
+12-->/Users/rengwuxian/projects/HenCoderPlus4/30_gradle_plugin/app/src/main/AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.1.0] /Users/rengwuxian/.gradle/caches/transforms-2/files-2.1/2a046db126507e1963a6fb0f44d39e64/core-1.1.0/AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/Users/rengwuxian/projects/HenCoderPlus4/30_gradle_plugin/app/src/main/AndroidManifest.xml:7:9-43
+16        android:label="@string/app_name"
+16-->/Users/rengwuxian/projects/HenCoderPlus4/30_gradle_plugin/app/src/main/AndroidManifest.xml:8:9-41
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->/Users/rengwuxian/projects/HenCoderPlus4/30_gradle_plugin/app/src/main/AndroidManifest.xml:9:9-54
+18        android:supportsRtl="true"
+18-->/Users/rengwuxian/projects/HenCoderPlus4/30_gradle_plugin/app/src/main/AndroidManifest.xml:10:9-35
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->/Users/rengwuxian/projects/HenCoderPlus4/30_gradle_plugin/app/src/main/AndroidManifest.xml:11:9-40
+21        <activity android:name="com.hencoder.a30_gradle_plugin.MainActivity" >
+21-->/Users/rengwuxian/projects/HenCoderPlus4/30_gradle_plugin/app/src/main/AndroidManifest.xml:12:9-18:20
+21-->/Users/rengwuxian/projects/HenCoderPlus4/30_gradle_plugin/app/src/main/AndroidManifest.xml:12:19-47
+22            <intent-filter>
+22-->/Users/rengwuxian/projects/HenCoderPlus4/30_gradle_plugin/app/src/main/AndroidManifest.xml:13:13-17:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/Users/rengwuxian/projects/HenCoderPlus4/30_gradle_plugin/app/src/main/AndroidManifest.xml:14:17-69
+23-->/Users/rengwuxian/projects/HenCoderPlus4/30_gradle_plugin/app/src/main/AndroidManifest.xml:14:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/Users/rengwuxian/projects/HenCoderPlus4/30_gradle_plugin/app/src/main/AndroidManifest.xml:16:17-77
+25-->/Users/rengwuxian/projects/HenCoderPlus4/30_gradle_plugin/app/src/main/AndroidManifest.xml:16:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>
